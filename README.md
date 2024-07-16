@@ -39,23 +39,16 @@ Installation
 
 Clone the repo:
 
-bash
-Copy code
+
 git clone https://github.com/yourusername/gpt-adcreator.git
 Export your API Keys:
 
-bash
-Copy code
+
 export TAVILY_API_KEY=<YOUR_TAVILY_API_KEY>
 export LANGCHAIN_API_KEY=<YOUR_LANGCHAIN_API_KEY>
 Install Requirements:
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the app:
 
-bash
 Copy code
 python app.py
 Open the app in your browser:
