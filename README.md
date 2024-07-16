@@ -1,4 +1,4 @@
-GPT AdCreator
+# GPT AdCreator
 Welcome to the GPT AdCreator project, an innovative tool designed to generate personalized advertisements tailored to user preferences. GPT AdCreator leverages the power of AI to craft compelling and targeted ads, revolutionizing how businesses connect with their audiences.
 
 🔍 Overview
